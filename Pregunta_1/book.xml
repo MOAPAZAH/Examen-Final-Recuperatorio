@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<book>
+		<id>10001</id>
+		<title>The Fire Next Time</title>
+		<author>Baldwin, James</author>
+	</book>
+	<book>
+		<id>10002</id>
+		<title>Beloved</title>
+		<author>Morris, Toni</author>
+	</book>
+	<book>
+		<id>10003</id>
+		<title>The Messiah of Stockholm</title>
+		<author>Ozick, Cynthia</author>
+	</book>
+	<book>
+		<id>10004</id>
+		<title>Sin Piedras</title>
+		<author>Miguel, Torrez</author>
+	</book>
+	<book>
+		<id>10005</id>
+		<title>The Messiah of Stockholm</title>
+		<author>Juanito, Cabani </author>
+	</book>
+</library>
